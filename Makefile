@@ -1,3 +1,6 @@
+ARCHS=armv7
+SDKVERSION=5.1
+
 include /opt/theos/makefiles/common.mk
 
 TWEAK_NAME = SwipeSelection
